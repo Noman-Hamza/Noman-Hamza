@@ -23,6 +23,7 @@ Tools
 📚 Currently Learning
 I’m focused on advancing my skills in the MERN stack to deliver full-featured applications. My goal is to take on challenging projects that allow me to deepen my expertise in both frontend and backend development.
 
+
 🌐 Connect with Me
 I'm actively seeking work opportunities where I can contribute and grow. Feel free to reach out if you’re looking for a committed full-stack developer ready to make an impact:
 
