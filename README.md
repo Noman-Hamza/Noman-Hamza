@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Din Mohammad Noman 👋</h1> <p align="center"> <i>Aspiring Full Stack Developer | MERN Enthusiast | WordPress Specialist</i> </p>
+<h1 align="center">Hi, I'm Din Mohammad Noman 👋</h1> <p align="center"> <i>Aspiring Full Stack Developer | MERN Enthusiast</i> </p>
 👨‍💻 About Me
+
 I'm Din Mohammad Noman, a driven learner in full-stack development with a focus on the MERN stack (MongoDB, Express.js, React, Node.js). I bring six months of hands-on experience working offline with WordPress, using Elementor, Themify, and WooCommerce to create dynamic and customized websites. My journey in web development inspired me to expand my skill set and take on full-stack projects, bridging both frontend and backend.
 
 🛠️ Skills
+
 Frontend
 
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> </p>
