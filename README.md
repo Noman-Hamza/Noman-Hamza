@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Din Mohammad Noman 👋</h1> <p align="center"> <i>Aspiring Full Stack Developer | MERN Enthusiast</i> </p>
 👨‍💻 About Me
 
-I'm Din Mohammad Noman, a driven learner in full-stack development with a focus on the MERN stack (MongoDB, Express.js, React, Node.js). I bring six months of hands-on experience working offline with WordPress, using Elementor, Themify, and WooCommerce to create dynamic and customized websites. My journey in web development inspired me to expand my skill set and take on full-stack projects, bridging both frontend and backend.
+I'm on a journey to become a full-stack developer, focusing on the MERN stack. With a strong foundation in JavaScript and web development, I'm passionate about building powerful, scalable web applications. I'm also experienced in WordPress, having worked offline for six months, where I got hands-on experience with Elementor, Themify, and WooCommerce. Through these experiences, I discovered my drive to develop fully customized, dynamic websites.
 
 🛠️ Skills
 
