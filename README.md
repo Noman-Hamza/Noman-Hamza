@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Din Mohammad Noman</h1>
-<h3 align="center">Aspiring Full Stack Developer | MERN Enthusiast | WordPress Expert</h3>
+<h1 align="center">Hi there, I'm Din Mohammad Noman 👋</h1> <p align="center"> Aspiring Full Stack Developer | MERN Enthusiast | WordPress Specialist </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noman-hamza&label=Profile%20views&color=0e75b6&style=flat" alt="noman-hamza" /> </p>
+🌟 About Me
+Hello! I'm Din Mohammad Noman, a passionate learner in the world of full-stack development, specializing in the MERN stack. My journey started with WordPress, where I developed solid expertise in Elementor, Themify, and WooCommerce through six months of hands-on experience. Working offline on WordPress projects, I gained insight into creating and customizing functional, dynamic websites.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noman-hamza" alt="noman-hamza" /></a> </p>
+Driven to expand my skillset, I ventured into full-stack development, aiming to build comprehensive web applications and enhance user experiences with cutting-edge tools and frameworks.
 
-- 🌱 I’m currently learning **Full Stack Web Development with JavaScript (MERN)**
+💻 Technical Skills
+Frontend Development: HTML, CSS, JavaScript, React
+Backend Development: Node.js, Express.js
+Database: MongoDB
+WordPress: Elementor, Themify, WooCommerce
+Version Control: Git, GitHub Desktop
+Package Management: npm, Yarn
+🌱 Currently Learning
+I'm committed to mastering the MERN stack, focusing on creating full-stack applications with both frontend and backend capabilities. My goal is to work on diverse projects that broaden my technical expertise and allow me to contribute meaningfully.
 
-- 💬 Ask me about **I'm on a journey to become a full-stack developer, focusing on the MERN stack. With a strong foundation in JavaScript and web development, I'm passionate about building powerful, scalable web applications. I'm also experienced in WordPress, having worked offline for six months, where I got hands-on experience with Elementor, Themify, and WooCommerce. Through these experiences, I discovered my drive to develop fully customized, dynamic websites.**
+🔗 Let's Connect!
+I’m open to connecting with other developers, collaborating on projects, and sharing knowledge. Feel free to reach out—let’s create something amazing together!
 
-- 📫 How to reach me **noman.akmu1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/din mohammad noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="din mohammad noman" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
+<p align="center"> <a href="https://www.linkedin.com/in/dinmohammadnoman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:dinmohammadnoman@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
