@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me  
 I'm on a journey to become a **Full-Stack Developer**, focusing on the **MERN stack**. With a strong foundation in **JavaScript** and **web development**, I'm passionate about building powerful, scalable web applications.  
 
-I also have hands-on experience with **WordPress**, having worked offline for six months. During this time, I gained expertise with **Elementor**, **Themify**, and **WooCommerce**, which fueled my passion for creating fully customized, dynamic websites.  
+I'm also experienced in WordPress, having worked offline,I got hands-on experience with Elementor, Themify, and WooCommerce. Through these experiences, I discovered my drive to develop fully customized, dynamic websites.  
 
 ---
 
